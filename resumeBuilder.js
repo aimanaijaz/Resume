@@ -12,7 +12,7 @@ var bio =
   "skills" : [ 
   "Programming" , "Teaching" , "HTML" , "CSS"
   ],
-  "bioPic" : "images/Aiman.jpg"
+  "bioPic" : "http://placehold.it/200x200"
 }
 
 
