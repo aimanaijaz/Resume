@@ -63,7 +63,7 @@ bio.display();
 var work = {
   "jobs" : [ {
   "employer" : " SWCET",
-  "title" : " Asst Professor",
+  "title" : " Programmer",
   "location": " Hyderabad",
   "dates": " June 2012 to June 2013",
   "description"  : "Conducted programming sessions for CS Engineering students in Web development and Computer Networks. Guided final year engineering students on their project work [ Complex web applications] "
