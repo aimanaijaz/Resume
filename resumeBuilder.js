@@ -166,22 +166,6 @@ var education = {
   "url" : "http://www.udacity.com" 
   },
   {
-  "name" : " Indian School Salalah",
-  "location" : " Salalah",
-  "degree": " AISSE",
-  "majors" : ["Maths", "Science"], 
-  "dates": " 1992 - 2004",
-  "url" : "http://www.indianschoolsalalah.com" 
-  },
-  {
-  "name" : " St. Ann's Junior College",
-  "location" : " Hyderabad",
-  "degree" : "BIE",
-  "majors": ["Maths", "Physcis", "Chemistry"], 
-  "dates": " 2004-2006",
-  "url" : "http://www.stannscollegehyd.com" 
-  },
-  {
   "name" : " SWCET",
   "location" : " Hyderabad",
   "degree": " B.Tech",
@@ -196,7 +180,24 @@ var education = {
   "majors": ["CS"], 
   "dates": " 2010 - 2012",
   "url" : " http://www.swcet.in " 
-  } ],
+  },
+  {
+  "name" : " Indian School Salalah",
+  "location" : " Salalah",
+  "degree": " AISSE",
+  "majors" : ["Maths", "Science"], 
+  "dates": " 1992 - 2004",
+  "url" : "http://www.indianschoolsalalah.com" 
+  },
+  {
+  "name" : " St. Ann's Junior College",
+  "location" : " Hyderabad",
+  "degree" : "BIE",
+  "majors": ["Maths", "Physcis", "Chemistry"], 
+  "dates": " 2004-2006",
+  "url" : "http://www.stannscollegehyd.com" 
+  }
+  ],
 
   "onlinecourses" : [ {
     "title" : "Intro to HTML and CSS",
